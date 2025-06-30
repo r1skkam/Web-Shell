@@ -1,7 +1,7 @@
 # Web Shell Notes
 
-**Notes about Web Shell**
+*Notes about Web Shell*
 
-*All intellectual property, including ideas and contents in this repo, are acknowledged and duly credited to their respective owners/owners.*
+**"All intellectual property, including but not limited to ideas, code, and other content contained in this repository, is the property of its respective owners and is acknowledged and credited accordingly."**
 
 
